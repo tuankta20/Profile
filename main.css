@@ -1,0 +1,15 @@
+.contents{
+    width: 100%;max-width: 768px;background: linear-gradient(
+        84deg
+        , rgba(137, 247, 254) 18%, rgba(102, 166, 255) 83%);height: 100%;margin: auto;position: fixed;top: 0;left: 50%;  transform: translate(-50%, 0%);
+}
+.form-padding{
+    padding: 30px 15px;
+}
+.avatar{
+    height: 150px;width: 150px;border-radius: 50%;position: absolute;background: aqua;
+    align-items: center;top:90%;border: 3px solid white;left: 50%;  transform: translate(-50%, -50%);
+}
+.form-content{
+    margin-top: 15px;height: 100%;background: white;border-radius: 15px;padding: 25px 10px;
+}
